@@ -1,13 +1,9 @@
 ---
-title: "Cyclistic Bike-Share: How Does a Bike-Share Navigate Speecdy Success?"
+title: "Cyclistic Bike-Share: How Does a Bike-Share Navigate Speedy Success?"
 author: "Sharon Ng"
 date: "2021/9/6"
 output: html_document
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 # Ask
 ### Three Questions to Guide the Future Marketing Program
