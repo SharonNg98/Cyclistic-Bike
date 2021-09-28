@@ -44,27 +44,28 @@ The data is sorted in ascending order by start_date, then end_date, then rideabl
 Excel for data cleaning, R for data transformation, data analysis and data visualisation
 
 # Analysis & Share
-![In this graph, casual and member users ride longer on weekends.](https://github.com/SharonNg98/Cyclistic-Bike/blob/master/Average%20Ride%20Length%20for%20Member%20vs%20Casual%20Users%20by%20Day%20of%20Week.png)
+![In this graph, casual and member users ride longer on weekends.](https://github.com/SharonNg98/Cyclistic-Bike/blob/master/Average%20Ride%20Length%20for%20Member%20vs%20Casual%20Users%20by%20Day%20of%20Week.png)  
+
 In this graph, casual and member users ride longer on weekends.
  
-![](Number of Rides for Member vs Casual Users by Day of Week.png)
+![In this graph, casual users ride more frequently on weekends, while member users ride more on Wednesdays.](https://github.com/SharonNg98/Cyclistic-Bike/blob/master/Number%20of%20Rides%20for%20Member%20vs%20Casual%20Users%20by%20Day%20of%20Week.png)
   
   In this graph, casual users ride more frequently on weekends, while member users ride more on Wednesdays.
-![](Average Ride Length for Member vs Casual Users by Rideable Type.png)
+![In this graph, casual and member users ride longer on docked bikes.](https://github.com/SharonNg98/Cyclistic-Bike/blob/master/Average%20Ride%20Length%20for%20Member%20vs%20Casual%20Users%20by%20Rideable%20Type.png)
   
   In this graph, casual and member users ride longer on docked bikes.
-![](Number of Rides for Member vs Casual Users by Rideable Type.png)
+![In this graph, casual and member users ride more frequently on classic bikes.](https://github.com/SharonNg98/Cyclistic-Bike/blob/master/Number%20of%20Rides%20for%20Member%20vs%20Casual%20Users%20by%20Rideable%20Type.png)
   
   In this graph, casual and member users ride more frequently on classic bikes.
-![](Average Ride Length for Member vs Casual Users by Month.png)
+![In this graph, the top three months that casual users ride the longest are May, February and September in descending order. Casual members ride the shortest in January and December. Member users ride the longest in February and September.](https://github.com/SharonNg98/Cyclistic-Bike/blob/master/Average%20Ride%20Length%20for%20Member%20vs%20Casual%20Users%20by%20Month.png)
   
   In this graph, the top three months that casual users ride the longest are May, February and September in descending order. Casual members ride the shortest in January and December. Member users ride the longest in February and September.
-![](Number of Rides for Member vs Casual Users by Month.png)
+![In this graph, the top three months that casual users ride the most  are July, August and June (all summer months) in descending order. Casual members ride the least in January and February. Member users ride the most in July and August.](https://github.com/SharonNg98/Cyclistic-Bike/blob/master/Number%20of%20Rides%20for%20Member%20vs%20Casual%20Users%20by%20Month.png)
   
-  In this graph, the top three months that casual users ride the most  are July, August and June (all summer months) in descending order. Casual members ride the least in January and February. Member users ride the most in July and August.
+  In this graph, the top three months that casual users ride the most are July, August and June (all summer months) in descending order. Casual members ride the least in January and February. Member users ride the most in July and August.
 
 # Act
 ## Three Suggestions to Increase Conversion Rate of Casual Users to Member Users
 1. Provide incentives like discounts on weekends.
 2. Provide more docked bikes and classic bikes since they are the top two most used bikes in terms of ride length and frequency respectively.
-3. Provide incentives like free-hours on the ride time in February, May and September, and giveaways on the frequent use of bikes in June, July and August.
+3. Provide incentives like free-hours on the ride time in February, May and September, and giveaways for the frequent use of bikes in June, July and August.
