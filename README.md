@@ -29,7 +29,7 @@ The downloaded files are stored in a local drive but not the cloud. The zip file
 - Reliable: The data is downloaded from Google Capstone Project via an anonymised company. Since Google is a large, well-known and credible corporate, it is expected and assumed that the data is trustworthy. The files are stored in static form (zip file) instead of dynamic form (cloud), so the data is reliable and does not change without prior notice.
 - Original: The data is second-hand but has not been processed by any third-party.
 - Comprehensive: Most data files conatin all critical information needed to find the solution. Some data files are missing in start station and its ID, and end station and its ID. This will affect our consideration in how distance and location affect a user's preference in joining the membership.
-- Current: The data is current, starting from July 2020 to July 2021.
+- Current: The data is current, starting from September 2020 to August 2021.
 - Cited: Google cited its source.
 
 ### Cleaning the Data
