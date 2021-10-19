@@ -43,7 +43,10 @@ The data is sorted in ascending order by start_date, then end_date, then rideabl
 ### Tools
 Excel for data cleaning, R for data transformation, data analysis and data visualisation
 
-# Analysis & Share
+# Analysis
+Click here for the [R script](https://github.com/SharonNg98/Cyclistic-Bike-Data-Analysis/blob/master/data_analysis.R).
+
+# Share
 ![In this graph, casual and member users ride longer on weekends.](https://github.com/SharonNg98/Cyclistic-Bike/blob/master/Average%20Ride%20Length%20for%20Member%20vs%20Casual%20Users%20by%20Day%20of%20Week.png)  
 
 In this graph, casual and member users ride longer on weekends.
