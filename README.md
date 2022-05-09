@@ -54,15 +54,19 @@ In this graph, casual and member users ride longer on weekends.
 ![In this graph, casual users ride more frequently on weekends, while member users ride more on Wednesdays.](https://github.com/SharonNg98/Cyclistic-Bike/blob/master/Number%20of%20Rides%20for%20Member%20vs%20Casual%20Users%20by%20Day%20of%20Week.png)
   
   In this graph, casual users ride more frequently on weekends, while member users ride more on Wednesdays.
+
 ![In this graph, casual and member users ride longer on docked bikes.](https://github.com/SharonNg98/Cyclistic-Bike/blob/master/Average%20Ride%20Length%20for%20Member%20vs%20Casual%20Users%20by%20Rideable%20Type.png)
   
   In this graph, casual and member users ride longer on docked bikes.
+
 ![In this graph, casual and member users ride more frequently on classic bikes.](https://github.com/SharonNg98/Cyclistic-Bike/blob/master/Number%20of%20Rides%20for%20Member%20vs%20Casual%20Users%20by%20Rideable%20Type.png)
   
   In this graph, casual and member users ride more frequently on classic bikes.
+
 ![In this graph, the top three months that casual users ride the longest are May, February and September in descending order. Casual members ride the shortest in January and December. Member users ride the longest in February and September.](https://github.com/SharonNg98/Cyclistic-Bike/blob/master/Average%20Ride%20Length%20for%20Member%20vs%20Casual%20Users%20by%20Month.png)
   
   In this graph, the top three months that casual users ride the longest are May, February and September in descending order. Casual members ride the shortest in January and December. Member users ride the longest in February and September.
+
 ![In this graph, the top three months that casual users ride the most  are July, August and June (all summer months) in descending order. Casual members ride the least in January and February. Member users ride the most in July and August.](https://github.com/SharonNg98/Cyclistic-Bike/blob/master/Number%20of%20Rides%20for%20Member%20vs%20Casual%20Users%20by%20Month.png)
   
   In this graph, the top three months that casual users ride the most are July, August and June (all summer months) in descending order. Casual members ride the least in January and February. Member users ride the most in July and August.
